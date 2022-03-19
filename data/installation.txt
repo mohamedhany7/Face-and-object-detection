@@ -1,0 +1,11 @@
+download and install Visual studio (C++)
+install cmake:
+		pip install cmake
+install open cv:
+		pip install opencv-python
+install dlib:
+		pip install dlib
+install Face Recognition:
+		pip install face-recognition
+install contrib:
+		pip install opencv-contrib-python
